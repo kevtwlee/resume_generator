@@ -257,17 +257,17 @@
           {% if certifications %}
             <section>
               <h2 class="section-heading">Certifications</h2>
-              <ul class="unstyled-list">
                 {% for cert in certifications %}
-                  <h3>
-                    {% if cert.url %}
-                      <a href="{{ cert.url }}">{{ cert.certificate }}</a>
-                    {% else %}
-                      {{ cert.certificate }}
-                    {% endif %}
-                  </h3>
+                  <section>
+                    <h3>
+                      {% if cert.url %}
+                        <a href="{{ cert.url }}">{{ cert.certificate }}</a>
+                      {% else %}
+                        {{ cert.certificate }}
+                      {% endif %}
+                    </h3>
+                  </section>
                 {% endfor %}
-              </ul>
             </section>
           {% endif %}
 
