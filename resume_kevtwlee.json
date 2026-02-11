@@ -79,18 +79,24 @@
   ],
   "projects": [
     {
-      "title": "US Business Cycle Analysis with Python",
-      "summary": "Map US business cycles and macro indicators back to 1960 based on The Conference Board's Leading Economic Index.",
+      "title": "US Business Cycle & Credit Cycle Analysis with Python",
+      "summary": "Map US business and credit cycles back to 1960.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "title": "US Macro Leading Indicators with Python",
+      "summary": "Map US macro leading indicators in change and rate-of-change terms.",
       "url": "",
       "highlights": [],
       "images": [
         {
           "img_path": "portfolio_media/yt1.png",
-          "caption": "US Business Cycle Analysis with Python"
+          "caption": "US Business Cycle & Credit Cycle Analysis with Python"
         },
         {
           "img_path": "portfolio_media/yt2.png",
-          "caption": "US Macro Leading Indicators"
+          "caption": "US Macro Leading Indicators with Python"
         }
       ]
     }
@@ -136,7 +142,7 @@
   "skills": [
     {
       "name": "Insurance, Credit, Statistical Learning",
-      "proficiency": 85,
+      "proficiency": 90,
       "proficiency_label": "Very Comfortable"
     },
     {
