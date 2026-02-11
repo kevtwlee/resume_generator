@@ -7,7 +7,7 @@
     "phone": "",
     "location": "New York, NY"
   },
-  "summary": "Marrying insurance markets with credit markets.",
+  "summary": "Marrying insurance markets with investment markets.",
   "url": "https://kevtwlee.github.io",
   "social_links": [
     {
@@ -140,7 +140,7 @@
   "skills": [
     {
       "name": "Insurance, Credit, Statistical Learning",
-      "proficiency": 85,
+      "proficiency": 80,
       "proficiency_label": "Very Comfortable"
     },
     {
