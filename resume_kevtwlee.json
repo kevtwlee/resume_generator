@@ -139,6 +139,14 @@
       "graduation_date": "1994"
     }
   ],
+  "certifications": [
+    {
+      "certificate": "Associate of the Casualty Actuarial Society (ACAS)"
+    },
+    {
+      "certificate": "Chartered Financial Analyst (CFA)"
+    }
+  ],
   "skills": [
     {
       "name": "Insurance, Credit, Statistical Learning",
