@@ -1,45 +1,41 @@
 {
   "name": "Kevin Lee",
-  "label": "Group Deputy Chief Credit Officer @ AIG General Insurance",
+  "label": "Deputy Chief Credit Officer @ AIG",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "kevintwlee@gmail.com",
     "phone": "",
     "location": "New York, NY"
   },
-  "summary": "Creating synergies between algorithms and fundamental analysis to promote more aggressive credit and underwriting decisions.",
+  "summary": "Marrying insurance markets with credit markets.",
   "url": "https://kevtwlee.github.io",
   "social_links": [
     {
-      "label": "kevtwlee.github.io",
+      "label": "Github",
       "url": "https://kevtwlee.github.io/",
-      "svg_path": "img/globe.svg"
+      "svg_path": "img/github.svg"
     },
     {
       "label": "LinkedIn",
       "url": "https://linkedin.com/in/kevintwlee/",
       "svg_path": "img/linkedin.svg"
-    },
-    {
-      "label": "Github",
-      "url": "https://github.com/kevtwlee/",
-      "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
       "company": "AIG",
-      "position": "Group Deputy Chief Credit Officer",
+      "position": "Deputy Chief Credit Officer",
       "url": "https://aig.com/",
       "start_date": "2019",
       "end_date": "Present",
       "summary": "",
       "highlights": [
-        "Drive entry and exit discipline in credit underwriting including engaging clients; adjudicate exceptional referrals with the second highest credit authority in the company; issue moratoriums on credit assets and liabilities when necessary.",
-        "Coordinate credit risk-taking across both sides of balance sheet where ~40% of credit exposures overlap including corporate credit, structured credit, infrastructure credit, fund finance.",
+        "Drive entry and exit discipline in credit underwriting by partnering with clients, adjudicating exceptional referrals with the company's second highest credit authority, and creating data that win reinsurance placements.",
+        "Match desirable risks to the most efficient capital on our balance sheet by steering corporate credit, trade finance, structured credit, infrastructure credit, fund finance exposures to the correct platform.",
         "Design a scalable operating framework for $100B+ of credit positions through standardized processes, automation, Aladdin integration, outsourcing, and redesign of the technology stack.",
-        "Anticipate systemic risks, research market controversies, formulate active views quickly, and communicate portfolio implications to insurance and investment teams."
-      ]
+        "Anticipate systemic risks, research market controversies, formulate active views quickly, and communicate portfolio implications to insurance and investment teams.",
+        "Took over reinsurance credit team temporarily, outsourced half of team activities, eliminated or automated a quarter of remaining activities, and saved $1.4 million. ",
+          ]
     },
     {
       "company": "AIG",
