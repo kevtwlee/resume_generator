@@ -139,33 +139,33 @@
   ],
   "skills": [
     {
-      "name": "Fundamental Credit Analysis, Statistical Learning",
-      "proficiency": 90,
-      "proficiency_label": "Expert"
+      "name": "Insurance, Credit, Statistical Learning",
+      "proficiency": 85,
+      "proficiency_label": "Very Comfortable"
     },
     {
-      "name": "Python, SQL, Actuarial Science",
-      "proficiency": 75,
+      "name": "Python, SQL",
+      "proficiency": 70,
       "proficiency_label": "Comfortable"
     },
     {
       "name": "AI Frameworks, Prompt Engineering",
-      "proficiency": 35,
+      "proficiency": 30,
       "proficiency_label": "Improving"
     }
   ],
   "interests": [
     {
       "name": "Baroque Art",
-      "summary": "I've seen nearly all of Caravaggio's and Vermeer's public paintings in person.",
+      "summary": "I've seen nearly all of Caravaggio's and Vermeer's paintings in person.",
       "images": [
         {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
+          "img_path": "portfolio_media/caravaggio_st_john_baptist.jpg",
+          "caption": "The Beheading of Saint John the Baptist, 1608, Caravaggio, Valletta, Malta"
         },
         {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
+          "img_path": "portfolio_media/vermeer_milkmaid.png",
+          "caption": "The Milkmaid, 1658, Vermeer, Rijksmuseum, Amsterdam"
         }
       ]
     }
