@@ -79,22 +79,18 @@
   ],
   "projects": [
     {
-      "title": "US Macro",
-      "summary": "Map US macro indicators and returns to business cycle phases defined by the Conference Board's Leading Economic Index.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "title": "US Business Cycle Analysis with Python",
+      "summary": "Map US business cycles and macro indicators back to 1960 based on The Conference Board's Leading Economic Index.",
+      "url": "",
+      "highlights": [],
       "images": [
         {
           "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
+          "caption": "US Business Cycle Analysis with Python"
         },
         {
           "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
-        },
-        {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
+          "caption": "US Macro Leading Indicators"
         }
       ]
     }
@@ -140,7 +136,7 @@
   "skills": [
     {
       "name": "Insurance, Credit, Statistical Learning",
-      "proficiency": 80,
+      "proficiency": 85,
       "proficiency_label": "Very Comfortable"
     },
     {
