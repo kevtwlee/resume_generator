@@ -1,0 +1,188 @@
+{
+  "name": "Kevin Lee",
+  "label": "Deputy Chief Credit Officer @ AIG",
+  "image_path": "portfolio_media/profile1.jpeg",
+  "contact": {
+    "email": "kevintwlee@gmail.com",
+    "phone": "",
+    "location": "New York, NY"
+  },
+  "summary": "Marrying insurance markets with capital markets.  Corporate Finance + Credit + Actuary.",
+  "url": "https://kevtwlee.github.io",
+  "social_links": [
+    {
+      "label": "https://kevtwlee.github.io/",
+      "url": "https://kevtwlee.github.io/",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "kevintwlee",
+      "url": "https://linkedin.com/in/kevintwlee/",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "AIG",
+      "position": "Deputy Chief Credit Officer",
+      "url": "https://aig.com/",
+      "start_date": "2019",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Match profitable risks with the most efficient capital by steering structured credit, corporate credit, infrastructure assets, fund finance exposures, etc. to the optimal insurance/investment platform and statutory balance sheet based on RBC, BSCR, SII, BCAR, S&P, and internal capital.",
+        "Drive entry and exit discipline in underwriting of credit-adjacent insurance products; partner with clients to create bespoke solutions that meet coverage, tax, and regulatory insurance capital requirements; adjudicate exceptional referrals with the second highest credit authority in the company.",
+        "Optimize and scale real-time risk management for a $100B+ credit portfolio of investments and insurance by digitizing the technology stack, promoting higher-conviction underwriting and data that win reinsurance placements.",
+        "Direct the quantification of counterparty/bank concentrations for liquidity risk management and credit parameters for internal capital modeling."
+        "Anticipate systemic risks, research market controversies, formulate active views quickly, and communicate portfolio implications and corroborating data to insurance, investments, and AIG's Group Risk Committee.",
+        "Restructured reinsurance credit team as the interim leader, outsourced half of team activities, eliminated or automated a quarter of remaining activities, and saved $1.0M."
+        ]
+    },
+    {
+      "company": "AIG",
+      "position": "Head of Risk, Global Credit & Specialty Insurance",
+      "url": "https://aig.com/",
+      "start_date": "2016",
+      "end_date": "2019",
+      "summary": "",
+      "highlights": [
+        "Led the end-to-end risk management of AIG's $3B global credit & specialty insurance business and assumed backup responsibilities for the commercial property business under turnaround and realignment situations.",
+        "Communicated technical insights to business heads; partnered with profit centers, reinsurance, actuaries, catastrophe modelers to execute strategic actions, utilizing risk-adjusted performance targets to identify profitable growth opportunities and underperforming programs.", 
+        "Steered divestment of $150M of aviation premiums after identifying suboptimal capital allocation under the reinsurance progression.",
+        "Authored annual risk review of business plans for global property, credit, and specialty to inform the AIG Board's sign-off, leading to pruning of the programs business and investments in other businesses."
+      ]
+    },
+    {
+      "company": "Moody's",
+      "position": "Vice President & Senior Credit Officer",
+      "url": "https://moodys.com/",
+      "start_date": "2005",
+      "end_date": "2016",
+      "summary": "",
+      "highlights": [
+        "Promoted four times in four years; partnered with bankers and senior management to rate debt securities of property-casualty, multiline, and mortgage insurers and reinsurers in the US, Bermuda, UK, Europe, and Russia.",
+        "As the in-house actuary, led ratings franchise for $3.3 billion of catastrophe bonds/sidecars and other insurance-linked securities; partnered with bankers and issuers to design securities that could be rated.",
+        "Developed content library by publishing industry-leading credit research including Japan Earthquake Q&A (top-ranked sell-side: “Nicely done and extremely useful”, reposted by Dowling & Partners); Mortgage Insurance (Freddie Mac: “Excellent analysis of the state of the industry”); Sidecars (CEO: “Best research [on the topic] anywhere on the street.”); Reinsurance Buyer Survey (EVP: “unique...nothing similar”)"
+      ]
+    },
+    {
+      "company": "Travelers",
+      "position": "Actuarial Leadership Development Program",
+      "url": "https://travelers.com/",
+      "start_date": "2002",
+      "end_date": "2004",
+      "summary": "",
+      "highlights": [
+        "Drove field execution using controllable income statements to mobilize agency plant, steer pricing, and guide capital allocation; conducted competitive intelligence of rivals.",
+        "Recovered $50M in redundant reserves by negotiating access to MGA data, spearheading comprehensive audits, and rebuilding actuarial estimates of a high-priority run-off book. (Division Head: “someone finally got the reserves right”)."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "US Business Cycle & Credit Cycle Analysis with Python",
+      "summary": "Map US business and credit cycles back to 1960 to contextualize underwriting decisions.",
+      "url": "https://kevtwlee.github.io/resume/portfolio_media/us_business_credit_cycles.png",
+      "highlights": []
+    },
+    {
+      "title": "US Macro Leading Indicators with Python",
+      "summary": "Map US macro leading indicators in change and rate-of-change terms to front-run macro risks.",
+      "url": "https://kevtwlee.github.io/resume/portfolio_media/us_macro_leading_indicators.png",
+      "highlights": [],
+      "images": [
+        {
+          "img_path": "portfolio_media/us_business_credit_cycles.png",
+          "caption": "US Business Cycle & Credit Cycle Analysis with Python"
+        },
+        {
+          "img_path": "portfolio_media/us_macro_leading_indicators.png",
+          "caption": "US Macro Leading Indicators with Python"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Cool Culture Inc.",
+      "position": "Board Member, Chair of Audit & Finance Committee",
+      "url": "https://coolculture.org/",
+      "start_date": "2011",
+      "end_date": "2021",
+      "summary": "Cool Culture improves educational outcomes of underprivileged children and their parents by using free access to arts & culture in NYC as a way to expand cognitive diversity and social circles.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "location": "Stanford, CA, USA",
+      "url": "https://stanford.edu/",
+      "degrees": [
+        "MS in Management Science & Engineering",
+        "MS in Environmental Engineering"
+      ],
+      "gpa_cumulative": "3.9",
+      "graduation_date": "2001"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA, USA",
+      "url": "https://berkeley.edu/",
+      "degrees": [
+        "BS in Civil/Structural Engineering"
+      ],
+      "honors": [
+        "High Distinction (magna cum laude)",
+        "Edward Frank Kraft Scholarship Award for Top 100 Freshmen"
+      ],
+      "gpa_cumulative": "3.8",
+      "graduation_date": "1994"
+    }
+  ],
+  "certifications": [
+    {
+      "certificate": "Associate of the Casualty Actuarial Society (ACAS)",
+      "url": "https://casact.org/"
+    },
+    {
+      "certificate": "Chartered Financial Analyst (CFA)",
+      "url": "https://cfainstitute.org/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Insurance, Credit, Statistical Learning",
+      "proficiency": 90,
+      "proficiency_label": "Very Comfortable"
+    },
+    {
+      "name": "Python, SQL",
+      "proficiency": 70,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "AI Frameworks, Prompt Engineering",
+      "proficiency": 30,
+      "proficiency_label": "Improving"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Baroque Art",
+      "summary": "I've seen nearly all of Caravaggio's and Vermeer's paintings in person.",
+      "images": [
+        {
+          "img_path": "portfolio_media/caravaggio_st_john_baptist.jpg",
+          "caption": "The Beheading of Saint John the Baptist, 1608, Caravaggio, Valletta, Malta"
+        },
+        {
+          "img_path": "portfolio_media/vermeer_milkmaid.png",
+          "caption": "The Milkmaid, 1658, Vermeer, Rijksmuseum, Amsterdam"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
